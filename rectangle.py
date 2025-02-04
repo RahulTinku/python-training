@@ -1,4 +1,4 @@
-def perimeter(length, breath):
+def perimeter(length=10, breath = 5):
     return 2 * (length + breath)
 
 def area(length, breath):
@@ -15,3 +15,8 @@ a = area(len, b)
 
 print('The perimeter is : ', str(p))
 print(' The area of rectangle is : ', str(a))
+
+print('This is with set breadth 5 : ', perimeter(10))
+
+# perimeter with default length value and breadth passed by the user
+print('This is perimeter, breadth added by user : ', perimeter(breath=7))
