@@ -21,3 +21,4 @@ class Student:
     # class Methods
     def new_instance(name=None, gender=None, roll=None, marks=None):
         return Student(name=name, gender=gender, roll=roll, marks=marks)
+        
