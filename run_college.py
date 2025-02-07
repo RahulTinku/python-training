@@ -15,4 +15,4 @@ print(s2.mood)
 print(s3)
 
 print(Student.count)
-print(s4.get_details())
+print('Details - ',s4.get_details())
