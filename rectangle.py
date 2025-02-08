@@ -19,4 +19,4 @@ print(' The area of rectangle is : ', str(a))
 print('This is with set breadth 5 : ', perimeter(10))
 
 # perimeter with default length value and breadth passed by the user
-print('This is perimeter, breadth added by user : ', perimeter(breath=7))
+print('This is perimeter, breadth added by user : ', perimeter(breath=7)) 
