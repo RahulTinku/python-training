@@ -8,7 +8,7 @@ marks = [4,50,23,5,6,7,8,2,11]
             new_list.append(i)
     return new_list
 
-print(filter_list(marks))
+print(filter_list(marks)) 
 '''
 
 # for comprehension (pre requisite is that we should be needing a new list from existing list
