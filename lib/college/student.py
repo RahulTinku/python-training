@@ -8,7 +8,7 @@ class Student:
         self.name = name
         self.gender = gender
         self.roll = roll
-        self.marks = marks
+        self.marks = marks 
         # access the class attributes using the class name
         Student.count += 1
 
