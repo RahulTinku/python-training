@@ -10,7 +10,7 @@ for car in cars:
     print(car.capitalize())
 
 
-#indexing
+#indexing 
 print(cars[0])
 print('last element ',cars[-1])
 
