@@ -20,4 +20,4 @@ def calculate_grade(marks):
     return grade
 
 marks = int(input('Enter marks : '))
-print(calculate_grade(marks = marks))
+print(calculate_grade(marks = marks)) 
