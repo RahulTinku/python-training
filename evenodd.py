@@ -10,4 +10,4 @@ def even_or_odd(n):
 
 n = int(input('Enter the number - ')) # scope of n is only within this file
 print(even_or_odd(n = n))
- 
+  
