@@ -29,4 +29,4 @@ def odd_series(n):
     return series
 
 n = int(input('Enter n : '))
-print(odd_series(n=n))
+print(odd_series(n=n)) 
