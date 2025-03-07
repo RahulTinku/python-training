@@ -12,7 +12,7 @@ s4 = Student.new_instance(name="James", gender='male', roll=30, marks= 86)
 
 print(s1.get_details())
 print(s2.mood)
-print(s3)
+print(s3) 
 
 print(Student.count)
 print('Details - ',s4.get_details())
